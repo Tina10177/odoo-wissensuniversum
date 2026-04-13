@@ -1,4 +1,7 @@
-# Von CRM über Sales zu Delivery und Invoice
+---
+layout: default
+title: Von CRM über Sales zu Delivery und Invoice
+---
 
 Diese Prozesskette gehört zu den wichtigsten Grundlinien in Odoo.
 
