@@ -1,4 +1,7 @@
-# Einkauf, Lager und Bestandslogik
+---
+layout: default
+title: Einkauf, Lager und Bestandslogik
+---
 
 Einkauf, Lager und Bestand gehören in Odoo eng zusammen.
 
