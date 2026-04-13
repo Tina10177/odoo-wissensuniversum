@@ -1,3 +1,7 @@
+---
+layout: default
+title: Odoo-Wissensuniversum
+---
 # Odoo-Wissensuniversum
 
 **Ein strukturierter öffentlicher Einstieg in mein Odoo-Wissensuniversum – mit Fokus auf Prozessverständnis, Systemlogik und praxisnahe Orientierung.**
