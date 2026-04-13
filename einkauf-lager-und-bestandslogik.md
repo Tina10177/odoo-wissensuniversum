@@ -3,6 +3,8 @@ layout: default
 title: Einkauf, Lager und Bestandslogik
 ---
 
+# Einkauf, Lager und Bestandslogik
+
 Einkauf, Lager und Bestand gehören in Odoo eng zusammen.
 
 Viele praktische Missverständnisse entstehen genau dort, wo diese drei Bereiche im Alltag zwar gemeinsam erlebt, im System aber unterschiedlich abgebildet werden.
