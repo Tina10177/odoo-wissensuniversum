@@ -2,7 +2,7 @@
 layout: default
 title: Wie lese ich diese Dokumentation?
 ---
-
+# Wie lese ich diese Dokumentation?
 Diese Dokumentation ist nicht als lineares Handbuch gedacht.
 
 Sie kann aus verschiedenen Richtungen gelesen werden – je nachdem, mit welcher Frage, Rolle oder Aufgabe man einsteigt.
