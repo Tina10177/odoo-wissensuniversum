@@ -2,7 +2,7 @@
 layout: default
 title: Warum Odoo aus Zusammenhängen verstanden werden sollte
 ---
-
+# Warum Odoo aus Zusammenhängen verstanden werden sollte
 Viele Menschen lernen Odoo zunächst über Menüs, Ansichten und einzelne Klickpfade kennen.
 
 Das ist verständlich – denn im Alltag begegnet man zuerst den Oberflächen.
