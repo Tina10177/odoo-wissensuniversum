@@ -1,4 +1,7 @@
-# Was ist das Odoo-Wissensuniversum?
+---
+layout: default
+title: Was ist das Odoo-Wissensuniversum?
+---
 
 Das Odoo-Wissensuniversum ist ein strukturierter Wissensraum rund um Odoo.
 
