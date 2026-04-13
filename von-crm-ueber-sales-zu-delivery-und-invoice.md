@@ -2,7 +2,7 @@
 layout: default
 title: Von CRM über Sales zu Delivery und Invoice
 ---
-
+# Von CRM über Sales zu Delivery und Invoice
 Diese Prozesskette gehört zu den wichtigsten Grundlinien in Odoo.
 
 Sie zeigt, wie aus einer ersten Vertriebschance schrittweise ein konkreter Geschäftsprozess wird – von der Kundenbeziehung über das Angebot bis hin zu Lieferung und Rechnung.
