@@ -2,7 +2,7 @@
 layout: default
 title: Rollenverständnis in Odoo
 ---
-
+# Rollenverständnis in Odoo
 Odoo wird in Unternehmen nicht nur über Module und Prozesse erlebt, sondern immer auch über Rollen.
 
 Deshalb ist es wichtig zu verstehen, dass unterschiedliche Personen im selben System mit sehr unterschiedlichen Aufgaben, Blickwinkeln und Verantwortlichkeiten arbeiten.
