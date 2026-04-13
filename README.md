@@ -13,7 +13,7 @@ Im Zentrum stehen nicht nur einzelne Funktionen, sondern vor allem Zusammenhäng
 - Praxisnahe Einordnung typischer Fragen und Missverständnisse
 
 ## Erste Einstiege
-- Was ist das Odoo-Wissensuniversum?
+- [Was ist das Odoo-Wissensuniversum?](./was-ist-das-odoo-wissensuniversum.md)
 - Von CRM über Sales zu Delivery und Invoice
 - Einkauf, Lager und Bestandslogik
 - Rollenverständnis in Odoo: Endanwender, Key User, Berater
