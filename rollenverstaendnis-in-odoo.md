@@ -1,4 +1,7 @@
-# Rollenverständnis in Odoo: Endanwender, Key User, Berater
+---
+layout: default
+title: Rollenverständnis in Odoo
+---
 
 Odoo wird in Unternehmen nicht nur über Module und Prozesse erlebt, sondern immer auch über Rollen.
 
