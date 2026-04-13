@@ -1,3 +1,8 @@
+---
+layout: default
+title: Struktur des Odoo-Wissensuniversums
+---
+
 # Struktur des Odoo-Wissensuniversums
 
 Diese Seite zeigt die übergreifende Struktur des öffentlichen Odoo-Wissensuniversums.
