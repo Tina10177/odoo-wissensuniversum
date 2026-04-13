@@ -20,6 +20,9 @@ Im Zentrum stehen nicht nur einzelne Funktionen, sondern vor allem Zusammenhäng
 - [Rollenverständnis in Odoo: Endanwender, Key User, Berater](./rollenverstaendnis-in-odoo.md)
 - [Warum Odoo nicht nur aus Menüs, sondern aus Zusammenhängen verstanden werden sollte](./warum-odoo-aus-zusammenhaengen-verstanden-werden-sollte.md)
 
+## Struktur
+- [Struktur des Odoo-Wissensuniversums](./struktur-des-wissensuniversums.md)
+
 ## Derzeit im Aufbau
 - Weitere strukturierte Einstiegsseiten
 - Ausgewählte Themen in deutscher Sprache
