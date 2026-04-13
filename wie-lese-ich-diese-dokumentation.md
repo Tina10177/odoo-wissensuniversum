@@ -1,4 +1,7 @@
-# Wie lese ich diese Dokumentation?
+---
+layout: default
+title: Wie lese ich diese Dokumentation?
+---
 
 Diese Dokumentation ist nicht als lineares Handbuch gedacht.
 
