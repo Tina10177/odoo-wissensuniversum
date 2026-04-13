@@ -37,4 +37,4 @@ Dieses Repository ist eine öffentliche Auswahl. Das eigentliche Wissensuniversu
 
 ## Zur Hauptseite
 Mehr über meine übergreifenden Schwerpunkte:
-[Tina · Huan Liu](https://github.com/Tina10177/tina-huan-liu)
+[Tina · Huan Liu](https://tina10177.github.io/tina-huan-liu/))
