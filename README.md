@@ -22,7 +22,7 @@ Im Zentrum stehen nicht nur einzelne Funktionen, sondern vor allem Zusammenhäng
 - [Von CRM über Sales zu Delivery und Invoice](./von-crm-ueber-sales-zu-delivery-und-invoice.md)
 - [Einkauf, Lager und Bestandslogik](./einkauf-lager-und-bestandslogik.md)
 - [Rollenverständnis in Odoo: Endanwender, Key User, Berater](./rollenverstaendnis-in-odoo.md)
-- [Warum Odoo nicht nur aus Menüs, sondern aus Zusammenhängen verstanden werden sollte](./warum-odoo-aus-zusammenhaengen-verstanden-werden-sollte.md)
+- [Warum Odoo nicht nur aus Menüs, sondern aus Zusammenhängen verstanden werden sollte](warum-odoo-aus-zusammenhaengen-verstanden-werden-sollte.md)
 
 ## Struktur
 - [Struktur des Odoo-Wissensuniversums](./struktur-des-wissensuniversums.md)

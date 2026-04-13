@@ -97,4 +97,4 @@ Wer Odoo nur über Oberflächen lernt, sieht einzelne Punkte.
 Wer Odoo über Zusammenhänge versteht, erkennt Linien, Wechselwirkungen und Systemlogik.
 
 ## Zurück zum Einstieg
-[Zur README-Hauptseite](./README.md)
+[Zur README-Hauptseite](README.md)
