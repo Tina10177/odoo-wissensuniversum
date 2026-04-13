@@ -2,7 +2,7 @@
 layout: default
 title: Was ist das Odoo-Wissensuniversum?
 ---
-
+# Was ist das Odoo-Wissensuniversum?
 Das Odoo-Wissensuniversum ist ein strukturierter Wissensraum rund um Odoo.
 
 Es ist nicht nur als Sammlung einzelner Funktionsbeschreibungen gedacht, sondern als System aus Zusammenhängen: Modulen, Prozessen, Rollen, typischen Missverständnissen und Lernpfaden.
