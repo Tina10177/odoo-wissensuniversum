@@ -14,7 +14,8 @@ Im Zentrum stehen nicht nur einzelne Funktionen, sondern vor allem Zusammenhäng
 
 ## Erste Einstiege
 - [Was ist das Odoo-Wissensuniversum?](./was-ist-das-odoo-wissensuniversum.md)
-- Von CRM über Sales zu Delivery und Invoice
+- [Wie lese ich diese Dokumentation?](./wie-lese-ich-diese-dokumentation.md)
+- [Von CRM über Sales zu Delivery und Invoice](./von-crm-ueber-sales-zu-delivery-und-invoice.md)
 - Einkauf, Lager und Bestandslogik
 - Rollenverständnis in Odoo: Endanwender, Key User, Berater
 - Warum Odoo nicht nur aus Menüs, sondern aus Zusammenhängen verstanden werden sollte
